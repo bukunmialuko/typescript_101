@@ -3,7 +3,7 @@ let age = 30;
 let isBlackBelt = false;
 
 // character = 20;
-// character = 'luigi';
+character = 'luigi';
 
 // age = 'yoshi';
 age = 40;
