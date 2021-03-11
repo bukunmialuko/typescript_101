@@ -61,3 +61,4 @@
     "src"
   ] // only include stuffs in the src folder
 }
+// https://www.typescriptlang.org/docs/
